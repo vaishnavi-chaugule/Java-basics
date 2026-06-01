@@ -1,7 +1,13 @@
 # Java-basics
-Core Java practice programs demonstrating fundamental programming concepts and problem-solving.
 
 This repository contains Core Java programs created for learning and practicing fundamental Java concepts.
+
+## Programs Included
+Hello World
+Calculator
+Check Even or Odd
+Find Array Element
+Find Greatest Of Two Numbers
 
 ## Topics Covered
 - Variables and Data Types
@@ -10,7 +16,11 @@ This repository contains Core Java programs created for learning and practicing 
 - Loops
 - Arrays
 - Methods
-- OOP Basics
+- Basic Problem Solving
+
+  ## Technologies Used
+  Java
+  Eclipse IDE
 
 ## Author
 Vaishnavi Chaugule
